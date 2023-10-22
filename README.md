@@ -14,7 +14,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
 
-- 🔭 I’m currently working on **Blood Donation**
 
 - 🌱 I’m currently learning **Flutter**
 
